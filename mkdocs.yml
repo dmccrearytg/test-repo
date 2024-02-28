@@ -1,1 +1,6 @@
 site_name: Dan's Test
+site_url: https://github.com/dmccrearytg/test-rep
+
+nav:
+  - Home: index.md
+  - About: about.md
