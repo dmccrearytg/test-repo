@@ -9,7 +9,7 @@ nav:
 # edit_uri: 'blob/master/docs'
 theme:
   name: material
-  logo: img/logo.png
+  logo: img/tg-logo-small.png
   favicon: img/favicon.ico
   include_sidebar: true
   features:
