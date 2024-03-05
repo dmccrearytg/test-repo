@@ -5,7 +5,8 @@ nav:
   - Home: index.md
   - About: about.md
   - Contact: contact.md
-edit_uri: 'blob/master/docs'
+
+# edit_uri: 'blob/master/docs'
 theme:
   name: material
   logo: img/logo.png

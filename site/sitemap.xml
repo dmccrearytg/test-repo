@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/dmccrearytg/test-rep/contact/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/dmccrearytg/test-rep/geospatial-concepts/</loc>
          <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
