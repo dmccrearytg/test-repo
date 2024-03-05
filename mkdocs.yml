@@ -5,6 +5,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Contact: contact.md
+  - Geospatial Concepts: geospatial-concepts.md
 
 # edit_uri: 'blob/master/docs'
 theme:
