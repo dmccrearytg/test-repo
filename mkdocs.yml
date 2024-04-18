@@ -1,5 +1,11 @@
-site_name: Dan's Test
-site_url: https://github.com/dmccrearytg/test-rep
+site_name: Dan's Test mkdocs microsite template
+site_url: https://github.com/dmccrearytg/test-repo
+site_description: 'Resources for teaching classes on Micro Simulators using generative AI and ChatGPT.'
+site_author: 'Dan McCreary'
+repo_name: 'GitHub Repo'
+site_url: 'https://dmccrearytg.github.io/test-repo'
+repo_url: 'https://github.com/dmccrearytg/test-repo'
+edit_uri: edit/master/docs/
 
 nav:
   - Home: index.md
